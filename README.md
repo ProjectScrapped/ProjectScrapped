@@ -9,3 +9,4 @@ ProjectScrapped/ProjectScrapped is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 Im not good at stuff. This is a dump of my fails and successes.
+No idea how to use GitHub
